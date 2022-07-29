@@ -9,11 +9,11 @@ size_2 = len(team_2)
 y = size_2 
 
 if size_1 == size_2
-  print(Game started.)
+  print("Game started.")
 else
-  print(Unbalanced)
+  print("Unbalanced")
 
 
 if x == size_1
-  print(fRounds left {x})
+  print(f"Rounds left {x}")
 
