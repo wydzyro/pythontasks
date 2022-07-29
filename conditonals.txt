@@ -1,5 +1,5 @@
-team_1 = [Mia, Lisa, Liam]
-team_2 = [James, Ty, Ava]
+team_1 = ["Mia", "Lisa", "Liam"]
+team_2 = ["James", "Ty", "Ava"]
 
 
 size_1 = len(team_1)
