@@ -1,0 +1,19 @@
+team_1 = [Mia, Lisa, Liam]
+team_2 = [James, Ty, Ava]
+
+
+size_1 = len(team_1)
+x = size_1
+
+size_2 = len(team_2)
+y = size_2 
+
+if size_1 == size_2
+  print(Game started.)
+else
+  print(Unbalanced)
+
+
+if x == size_1
+  print(fRounds left {x})
+
